@@ -14,18 +14,17 @@
 ## Courses
 
 - **Computer Science**
-  - Intermediate Programming C++, Data Science, Introduction to Computer Science (Python)
+  - Intermediate Programming (C++), Data Science, Introduction to Computer Science (Python)
 
 - **Mathematics**
-  - Optimization (Grad), Machine Learning, Stochastic Processes, Numerical Analysis, Real Analysis, Linear Algebra, Complex Analysis, Linear and Nonlinear Systems of Differential Equations, Mathematics of Finance
+  - Optimization (Graduate), Machine Learning, Stochastic Processes, Numerical Analysis, Real Analysis, Linear Algebra, Complex Analysis, Linear and Nonlinear Systems of Differential Equations, Mathematics of Finance
 
 - **Statistics**
   - Monte Carlo Methods, Computation and Optimization for Statistics, Computational Statistics with R, Statistical Models and Data Mining, Design and Analysis of Experiment, Linear Regression, Mathematical Statistics, Probability
 
 ## Interests
 
-- **Hobbies:**
-  - Piano, Basketball
+- Piano, Basketball
 
 
 ## CV

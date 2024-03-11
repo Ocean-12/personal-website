@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "",
     "section": "",
-    "text": "Research on Deep Reinforcement Learning\nResearcher March 2023 - Present\n\nFocused on the impacts of graph methods on the reinforcement learning procedure\nUtilized Python in conjunction with machine learning packages such as PyTorch and NumPy to advance the development of reinforcement learning experiments around the project concepts\n\nFederated Learning on EMNIST Dataset\nResearcher\nMarch 2023 – June 2023\n\nInvestigated the impact of distributing training data across multiple devices via federated learning\nEvaluated four distinct data distribution scenarios, found minor influence of data distribution\n\nSentimental Analysis on Natural Language Processing Algorithm\nResearcher\nSeptember 2022 – December 2022\n\nLeveraged NLTK and TextBlob python libraries and implemented algorithmic solutions to predict the sentiment of customer reviews from online restaurant review platforms\nBuilt classification using logistic regression, random forest, and long short-term memory (LSTM) to identify key words and grammatical style and to label various sentiments"
+    "text": "Research on Deep Reinforcement Learning\nResearcher\nMarch 2023 - Present\n\nFocused on the impacts of graph methods on the reinforcement learning procedure\nUtilized Python in conjunction with machine learning packages such as PyTorch and NumPy to advance the development of reinforcement learning experiments around the project concepts\n\nFederated Learning on EMNIST Dataset\nResearcher\nMarch 2023 – June 2023\n\nInvestigated the impact of distributing training data across multiple devices via federated learning\nEvaluated four distinct data distribution scenarios, found minor influence of data distribution\n\nSentimental Analysis on Natural Language Processing Algorithm\nResearcher\nSeptember 2022 – December 2022\n\nLeveraged NLTK and TextBlob python libraries and implemented algorithmic solutions to predict the sentiment of customer reviews from online restaurant review platforms\nBuilt classification using logistic regression, random forest, and long short-term memory (LSTM) to identify key words and grammatical style and to label various sentiments"
   },
   {
     "objectID": "about.html",
@@ -53,7 +53,7 @@
     "href": "CV.html#courses",
     "title": "",
     "section": "Courses",
-    "text": "Courses\n\nComputer Science\n\nIntermediate Programming C++, Data Science, Introduction to Computer Science (Python)\n\nMathematics\n\nOptimization (Grad), Machine Learning, Stochastic Processes, Numerical Analysis, Real Analysis, Linear Algebra, Complex Analysis, Linear and Nonlinear Systems of Differential Equations, Mathematics of Finance\n\nStatistics\n\nMonte Carlo Methods, Computation and Optimization for Statistics, Computational Statistics with R, Statistical Models and Data Mining, Design and Analysis of Experiment, Linear Regression, Mathematical Statistics, Probability"
+    "text": "Courses\n\nComputer Science\n\nIntermediate Programming (C++), Data Science, Introduction to Computer Science (Python)\n\nMathematics\n\nOptimization (Graduate), Machine Learning, Stochastic Processes, Numerical Analysis, Real Analysis, Linear Algebra, Complex Analysis, Linear and Nonlinear Systems of Differential Equations, Mathematics of Finance\n\nStatistics\n\nMonte Carlo Methods, Computation and Optimization for Statistics, Computational Statistics with R, Statistical Models and Data Mining, Design and Analysis of Experiment, Linear Regression, Mathematical Statistics, Probability"
   },
   {
     "objectID": "CV.html#other-interests",
@@ -74,7 +74,7 @@
     "href": "CV.html#interests",
     "title": "",
     "section": "Interests",
-    "text": "Interests\n\nHobbies:\n\nPiano, Basketball"
+    "text": "Interests\n\nPiano, Basketball"
   },
   {
     "objectID": "projects.html#research-and-project-experience",
@@ -88,6 +88,6 @@
     "href": "projects.html#research-project-experience",
     "title": "",
     "section": "",
-    "text": "Research on Deep Reinforcement Learning\nResearcher March 2023 - Present\n\nFocused on the impacts of graph methods on the reinforcement learning procedure\nUtilized Python in conjunction with machine learning packages such as PyTorch and NumPy to advance the development of reinforcement learning experiments around the project concepts\n\nFederated Learning on EMNIST Dataset\nResearcher\nMarch 2023 – June 2023\n\nInvestigated the impact of distributing training data across multiple devices via federated learning\nEvaluated four distinct data distribution scenarios, found minor influence of data distribution\n\nSentimental Analysis on Natural Language Processing Algorithm\nResearcher\nSeptember 2022 – December 2022\n\nLeveraged NLTK and TextBlob python libraries and implemented algorithmic solutions to predict the sentiment of customer reviews from online restaurant review platforms\nBuilt classification using logistic regression, random forest, and long short-term memory (LSTM) to identify key words and grammatical style and to label various sentiments"
+    "text": "Research on Deep Reinforcement Learning\nResearcher\nMarch 2023 - Present\n\nFocused on the impacts of graph methods on the reinforcement learning procedure\nUtilized Python in conjunction with machine learning packages such as PyTorch and NumPy to advance the development of reinforcement learning experiments around the project concepts\n\nFederated Learning on EMNIST Dataset\nResearcher\nMarch 2023 – June 2023\n\nInvestigated the impact of distributing training data across multiple devices via federated learning\nEvaluated four distinct data distribution scenarios, found minor influence of data distribution\n\nSentimental Analysis on Natural Language Processing Algorithm\nResearcher\nSeptember 2022 – December 2022\n\nLeveraged NLTK and TextBlob python libraries and implemented algorithmic solutions to predict the sentiment of customer reviews from online restaurant review platforms\nBuilt classification using logistic regression, random forest, and long short-term memory (LSTM) to identify key words and grammatical style and to label various sentiments"
   }
 ]

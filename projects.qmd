@@ -1,7 +1,7 @@
 ## Research & Project Experience
 
 - **Research on Deep Reinforcement Learning**  
-  Researcher
+  Researcher   
   _March 2023 - Present_
   - Focused on the impacts of graph methods on the reinforcement learning procedure
   -	Utilized Python in conjunction with machine learning packages such as PyTorch and NumPy to advance the development of reinforcement learning experiments around the project concepts
