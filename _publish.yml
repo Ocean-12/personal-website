@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 7136a23d-49d7-4008-96be-8566f315b704
+      url: 'https://ruibinlyu.netlify.app/'

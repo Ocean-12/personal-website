@@ -2,15 +2,14 @@ project:
   type: website
 
 website:
-  title: "Ruibin Lyu"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: projects.qmd
         text: Projects
+      - href: about.qmd
+        text: About
 
 format:
   html:
