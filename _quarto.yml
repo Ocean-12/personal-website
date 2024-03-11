@@ -5,11 +5,14 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: projects.qmd
-        text: Projects
-      - href: about.qmd
         text: About
+      - href: projects.qmd
+        text: Research & Projects
+      - href: CV.qmd
+        text: CV&Resume
+    
+  page-footer:
+    right: "&copy; 2024, Ruibin Lyu"
 
 format:
   html:

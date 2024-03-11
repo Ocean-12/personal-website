@@ -2,23 +2,23 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "",
     "section": "",
-    "text": "About this site"
+    "text": "Research on Deep Reinforcement Learning\nResearcher March 2023 - Present\n\nFocused on the impacts of graph methods on the reinforcement learning procedure\nUtilized Python in conjunction with machine learning packages such as PyTorch and NumPy to advance the development of reinforcement learning experiments around the project concepts\n\nFederated Learning on EMNIST Dataset\nResearcher\nMarch 2023 – June 2023\n\nInvestigated the impact of distributing training data across multiple devices via federated learning\nEvaluated four distinct data distribution scenarios, found minor influence of data distribution\n\nSentimental Analysis on Natural Language Processing Algorithm\nResearcher\nSeptember 2022 – December 2022\n\nLeveraged NLTK and TextBlob python libraries and implemented algorithmic solutions to predict the sentiment of customer reviews from online restaurant review platforms\nBuilt classification using logistic regression, random forest, and long short-term memory (LSTM) to identify key words and grammatical style and to label various sentiments"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "",
     "section": "",
-    "text": "About this site"
+    "text": "This is an about page."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello! My name is Ruibin Lyu. I am a senior double majoring in Applied Mathematics and Statistics and Data Science at UCLA. I am interested in machine learning and data science."
   },
   {
     "objectID": "index.html#title-of-website",
@@ -26,5 +26,68 @@
     "title": "",
     "section": "",
     "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#heading-1",
+    "href": "index.html#heading-1",
+    "title": "",
+    "section": "",
+    "text": "Hello! My name is Ruibin Lyu. I am a senior double majoring in Applied Mathematics and Statistics and Data Science at UCLA. I am interested in machine learning and data science."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "",
+    "section": "",
+    "text": "KPMG Consulting\nIntern, Team of MC (Management Consulting) Cloud\nJuly 2023 – September 2023\n\nMigrated data for Starbucks China to utilize Alibaba’s cloud architecture for advanced data utilization\n\nDa Cheng Fund Management Co.\nInvestment Analyst\nJune 2021 – September 2021\n\nConducted global metal trading research and comprehensive data collection across various asset classes"
+  },
+  {
+    "objectID": "CV.html#internship-experience",
+    "href": "CV.html#internship-experience",
+    "title": "",
+    "section": "",
+    "text": "KPMG Consulting\nIntern, Team of MC (Management Consulting) Cloud\nJuly 2023 – September 2023\n\nMigrated data for Starbucks China to utilize Alibaba’s cloud architecture for advanced data utilization\n\nDa Cheng Fund Management Co.\nInvestment Analyst\nJune 2021 – September 2021\n\nConducted global metal trading research and comprehensive data collection across various asset classes"
+  },
+  {
+    "objectID": "CV.html#courses",
+    "href": "CV.html#courses",
+    "title": "",
+    "section": "Courses",
+    "text": "Courses\n\nComputer Science\n\nIntermediate Programming C++, Data Science, Introduction to Computer Science (Python)\n\nMathematics\n\nOptimization (Grad), Machine Learning, Stochastic Processes, Numerical Analysis, Real Analysis, Linear Algebra, Complex Analysis, Linear and Nonlinear Systems of Differential Equations, Mathematics of Finance\n\nStatistics\n\nMonte Carlo Methods, Computation and Optimization for Statistics, Computational Statistics with R, Statistical Models and Data Mining, Design and Analysis of Experiment, Linear Regression, Mathematical Statistics, Probability"
+  },
+  {
+    "objectID": "CV.html#other-interests",
+    "href": "CV.html#other-interests",
+    "title": "",
+    "section": "Other Interests",
+    "text": "Other Interests\n\nHobbies:\n\nPiano, Basketball"
+  },
+  {
+    "objectID": "CV.html#cv",
+    "href": "CV.html#cv",
+    "title": "",
+    "section": "CV",
+    "text": "CV\nAttached is my current CV"
+  },
+  {
+    "objectID": "CV.html#interests",
+    "href": "CV.html#interests",
+    "title": "",
+    "section": "Interests",
+    "text": "Interests\n\nHobbies:\n\nPiano, Basketball"
+  },
+  {
+    "objectID": "projects.html#research-and-project-experience",
+    "href": "projects.html#research-and-project-experience",
+    "title": "",
+    "section": "",
+    "text": "Research on Deep Reinforcement Learning\nResearcher March 2023 - Present\n\nFocused on the impacts of graph methods on the reinforcement learning procedure\nUtilized Python in conjunction with machine learning packages such as PyTorch and NumPy to advance the development of reinforcement learning experiments around the project concepts\n\nFederated Learning on EMNIST Dataset\nResearcher\nMarch 2023 – June 2023\n\nInvestigated the impact of distributing training data across multiple devices via federated learning\nEvaluated four distinct data distribution scenarios, found minor influence of data distribution\n\nSentimental Analysis on Natural Language Processing Algorithm\nResearcher\nSeptember 2022 – December 2022\n\nLeveraged NLTK and TextBlob python libraries and implemented algorithmic solutions to predict the sentiment of customer reviews from online restaurant review platforms\nBuilt classification using logistic regression, random forest, and long short-term memory (LSTM) to identify key words and grammatical style and to label various sentiments"
+  },
+  {
+    "objectID": "projects.html#research-project-experience",
+    "href": "projects.html#research-project-experience",
+    "title": "",
+    "section": "",
+    "text": "Research on Deep Reinforcement Learning\nResearcher March 2023 - Present\n\nFocused on the impacts of graph methods on the reinforcement learning procedure\nUtilized Python in conjunction with machine learning packages such as PyTorch and NumPy to advance the development of reinforcement learning experiments around the project concepts\n\nFederated Learning on EMNIST Dataset\nResearcher\nMarch 2023 – June 2023\n\nInvestigated the impact of distributing training data across multiple devices via federated learning\nEvaluated four distinct data distribution scenarios, found minor influence of data distribution\n\nSentimental Analysis on Natural Language Processing Algorithm\nResearcher\nSeptember 2022 – December 2022\n\nLeveraged NLTK and TextBlob python libraries and implemented algorithmic solutions to predict the sentiment of customer reviews from online restaurant review platforms\nBuilt classification using logistic regression, random forest, and long short-term memory (LSTM) to identify key words and grammatical style and to label various sentiments"
   }
 ]

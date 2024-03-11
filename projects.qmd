@@ -1,5 +1,20 @@
----
-title: "Projects"
----
+## Research & Project Experience
 
-About this site
+- **Research on Deep Reinforcement Learning**  
+  Researcher
+  _March 2023 - Present_
+  - Focused on the impacts of graph methods on the reinforcement learning procedure
+  -	Utilized Python in conjunction with machine learning packages such as PyTorch and NumPy to advance the development of reinforcement learning experiments around the project concepts
+
+
+- **Federated Learning on EMNIST Dataset**  
+  Researcher   
+  _March 2023 – June 2023_
+  - Investigated the impact of distributing training data across multiple devices via federated learning
+  - Evaluated four distinct data distribution scenarios, found minor influence of data distribution
+  
+- **Sentimental Analysis on Natural Language Processing Algorithm**  
+  Researcher   
+  _September 2022 – December 2022_
+  - Leveraged NLTK and TextBlob python libraries and implemented algorithmic solutions to predict the sentiment of customer reviews from online restaurant review platforms
+  - Built classification using logistic regression, random forest, and long short-term memory (LSTM) to identify key words and grammatical style and to label various sentiments

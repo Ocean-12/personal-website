@@ -1,3 +1,18 @@
-## Title of website
+---
+toc: false
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/ruibin-lyu-6270911b9/
+    - icon: github
+      text: Github
+      url: https://github.com/Ocean-12
+    - icon: inbox-fill
+      text: Email
+      url: ruibinlyu@g.ucla.edu
+image: profile-picture.jpg
+---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello! My name is Ruibin Lyu. I am a senior double majoring in Applied Mathematics and Statistics and Data Science at UCLA. I am interested in machine learning and data science.

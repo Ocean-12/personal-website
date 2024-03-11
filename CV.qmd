@@ -1,0 +1,32 @@
+## Internship Experience
+
+- **KPMG Consulting**  
+  Intern, Team of MC (Management Consulting) Cloud  
+  _July 2023 – September 2023_
+  - Migrated data for Starbucks China to utilize Alibaba’s cloud architecture for advanced data utilization
+
+- **Da Cheng Fund Management Co.**  
+  Investment Analyst   
+  _June 2021 – September 2021_
+  - Conducted global metal trading research and comprehensive data collection across various asset classes
+  
+
+## Courses
+
+- **Computer Science**
+  - Intermediate Programming C++, Data Science, Introduction to Computer Science (Python)
+
+- **Mathematics**
+  - Optimization (Grad), Machine Learning, Stochastic Processes, Numerical Analysis, Real Analysis, Linear Algebra, Complex Analysis, Linear and Nonlinear Systems of Differential Equations, Mathematics of Finance
+
+- **Statistics**
+  - Monte Carlo Methods, Computation and Optimization for Statistics, Computational Statistics with R, Statistical Models and Data Mining, Design and Analysis of Experiment, Linear Regression, Mathematical Statistics, Probability
+
+## Interests
+
+- **Hobbies:**
+  - Piano, Basketball
+
+
+## CV
+Attached is my current [CV](/docs/CV/CV.pdf "CV")
